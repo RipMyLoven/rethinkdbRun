@@ -1,0 +1,22 @@
+2025-05-02T17:34:13.886326200 0.015940s notice: In recursion: removing file 'C:\\Users\\ripmy\\Source\\Repos\\rethinkdbRun\\bin\\Debug\\net8.0\\Resources\\Executables\\rethinkdb_data\\tmp'
+2025-05-02T17:34:13.886992900 0.016604s warn: Trying to delete non-existent file 'C:\\Users\\ripmy\\Source\\Repos\\rethinkdbRun\\bin\\Debug\\net8.0\\Resources\\Executables\\rethinkdb_data\\tmp'
+2025-05-02T17:34:13.888818600 0.018430s notice: Initializing directory C:\\Users\\ripmy\\Source\\Repos\\rethinkdbRun\\bin\\Debug\\net8.0\\Resources\\Executables\\rethinkdb_data
+2025-05-02T17:34:13.889694800 0.019306s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory 'C:\\Users\\ripmy\\Source\\Repos\\rethinkdbRun\\bin\\Debug\\net8.0\\Resources\\Executables\\rethinkdb_data' did not already exist or is empty.)
+2025-05-02T17:34:13.889818400 0.019430s notice: Running rethinkdb 2.4.2-11-g6613dc (Windows) (MSC 191627048)...
+2025-05-02T17:34:13.889882100 0.019494s notice: Running on 10.0.26100 (Windows 10, Server 2016)
+2025-05-02T17:34:13.889943300 0.019554s notice: Loading data from directory C:\\Users\\ripmy\\Source\\Repos\\rethinkdbRun\\bin\\Debug\\net8.0\\Resources\\Executables\\rethinkdb_data
+2025-05-02T17:34:13.907678400 0.037290s info: Automatically using cache size of 5346 MB
+2025-05-02T17:34:13.909667300 0.039278s notice: Listening for intracluster connections on port 29015
+2025-05-02T17:34:13.910797100 0.040408s notice: Listening for client driver connections on port 28015
+2025-05-02T17:34:13.910842100 0.040453s notice: Listening for administrative HTTP connections on port 8080
+2025-05-02T17:34:13.910843400 0.040454s notice: Listening on cluster address: 127.0.0.1
+2025-05-02T17:34:13.910844200 0.040455s notice: Listening on driver address: 127.0.0.1
+2025-05-02T17:34:13.910845100 0.040456s notice: Listening on http address: 127.0.0.1
+2025-05-02T17:34:13.910845800 0.040457s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2025-05-02T17:34:13.910846800 0.040458s notice: Server ready, "RipMyLoven_80o" 8e0a22ee-445a-4b89-8e1a-bbc29962edf0
+2025-05-02T17:34:38.476715400 24.606326s info: Table 772b8777-f245-44de-a48a-7dfe4c871628: Starting a new Raft election for term 1.
+2025-05-02T17:34:38.476938900 24.606550s info: Table 772b8777-f245-44de-a48a-7dfe4c871628: Added replica on this server.
+2025-05-02T17:34:38.477772200 24.607383s info: Table 772b8777-f245-44de-a48a-7dfe4c871628: This server is Raft leader for term 1. Latest log index is 0.
+2025-05-02T17:34:38.768800300 24.898411s info: Table 26626055-bc2d-4575-8db5-cf187c2d33f0: Starting a new Raft election for term 1.
+2025-05-02T17:34:38.768920200 24.898531s info: Table 26626055-bc2d-4575-8db5-cf187c2d33f0: Added replica on this server.
+2025-05-02T17:34:38.769634800 24.899246s info: Table 26626055-bc2d-4575-8db5-cf187c2d33f0: This server is Raft leader for term 1. Latest log index is 0.

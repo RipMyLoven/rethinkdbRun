@@ -1,0 +1,15 @@
+C:\Users\ripmy\Source\Repos\rethinkdbRun\bin\Debug\net8.0\Resources\Executables\rethinkdb.exe
+C:\Users\ripmy\Source\Repos\rethinkdbRun\bin\Debug\net8.0\rethinkdbRun.exe
+C:\Users\ripmy\Source\Repos\rethinkdbRun\bin\Debug\net8.0\rethinkdbRun.deps.json
+C:\Users\ripmy\Source\Repos\rethinkdbRun\bin\Debug\net8.0\rethinkdbRun.runtimeconfig.json
+C:\Users\ripmy\Source\Repos\rethinkdbRun\bin\Debug\net8.0\rethinkdbRun.dll
+C:\Users\ripmy\Source\Repos\rethinkdbRun\bin\Debug\net8.0\rethinkdbRun.pdb
+C:\Users\ripmy\Source\Repos\rethinkdbRun\obj\Debug\net8.0\rethinkdbRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ripmy\Source\Repos\rethinkdbRun\obj\Debug\net8.0\rethinkdbRun.AssemblyInfoInputs.cache
+C:\Users\ripmy\Source\Repos\rethinkdbRun\obj\Debug\net8.0\rethinkdbRun.AssemblyInfo.cs
+C:\Users\ripmy\Source\Repos\rethinkdbRun\obj\Debug\net8.0\rethinkdbRun.csproj.CoreCompileInputs.cache
+C:\Users\ripmy\Source\Repos\rethinkdbRun\obj\Debug\net8.0\rethinkdbRun.dll
+C:\Users\ripmy\Source\Repos\rethinkdbRun\obj\Debug\net8.0\refint\rethinkdbRun.dll
+C:\Users\ripmy\Source\Repos\rethinkdbRun\obj\Debug\net8.0\rethinkdbRun.pdb
+C:\Users\ripmy\Source\Repos\rethinkdbRun\obj\Debug\net8.0\rethinkdbRun.genruntimeconfig.cache
+C:\Users\ripmy\Source\Repos\rethinkdbRun\obj\Debug\net8.0\ref\rethinkdbRun.dll
